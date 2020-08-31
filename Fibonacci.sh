@@ -15,7 +15,7 @@ if [ $# -eq 1 ]
 then
     Num=$1
 else
-    echo -n "Enter a Number Please works :"
+    echo -n "Enter a Number Please works  finally:"
     read Num
 fi
 
